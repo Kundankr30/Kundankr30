@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kundankr30" alt="kundankr30" /></a> </p>
 
-- 🌱 I’m currently learning **Java and C**
+- 🌱 I’m currently learning **Java and Rust**
 
 - 📫 How to reach me **kundanixr@gmail.com**
 
