@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
-<h3 align="center">💻 Aspiring Full Stack Developer | 🚀 MERN Stack Learner</h3>
+<h3 align="center">💻  Developer | 🚀 Problem Solver</h3>
 
 ---
 
@@ -16,7 +16,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently learning **Express.js & React**
+- 🔭 Currently learning **Express.js , React & Rust **
 - 🌱 Exploring **Full Stack Development (MERN)**
 - 🧠 Practicing **Data Structures & Algorithms**
 - ⚡ Love solving problems on **LeetCode**
@@ -49,7 +49,6 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kundankr30&show_icons=true&theme=radical" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundankr30&theme=radical" height="165"/>
 </p>
 
