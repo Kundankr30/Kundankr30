@@ -1,17 +1,73 @@
-## Hi 👋, I'm Kundan Kumar  
-💻 Developer  
+<h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
+<h3 align="center">💻 Aspiring Full Stack Developer | 🚀 MERN Stack Learner</h3>
 
-🔭 I’m currently learning **Express & React**  
-🌱 Exploring full-stack development  
+---
 
-📫 Reach me at: **kundanixr@gmail.com**
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things" />
+</p>
 
-### 🔗 Connect with me
-- GitHub: Kundankr30  
-- LeetCode: Kundanleetcoder  
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kundankr30&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 👨‍💻 About Me
+- 🔭 Currently learning **Express.js & React**
+- 🌱 Exploring **Full Stack Development (MERN)**
+- 🧠 Practicing **Data Structures & Algorithms**
+- ⚡ Love solving problems on **LeetCode**
+- 🎯 Goal: Become a **strong Software Engineer**
+
+---
+
+### 🌐 Connect With Me
+<p align="left">
+<a href="mailto:kundanixr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
+<a href="https://github.com/Kundankr30"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
+<a href="https://leetcode.com/Kundanleetcoder/"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,express,nodejs,mongodb,git,rust" />
+</p>
+
+---
 
 ### 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/Kundanleetcoder?theme=dark&font=Baloo&ext=heatmap)
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Kundanleetcoder?theme=dark&font=Baloo&ext=heatmap" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a></p>
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kundankr30&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundankr30&theme=radical" height="165"/>
+</p>
+
+---
+
+### 🧠 Top Languages
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankr30&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### ⚡ Fun Fact
+> I spend more time debugging than coding 😄
