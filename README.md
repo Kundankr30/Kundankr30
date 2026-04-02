@@ -55,12 +55,6 @@
 
 ---
 
-### 🧠 Top Languages
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankr30&layout=compact&theme=radical" />
-</p>
-
----
 
 ### 🐍 Contribution Snake
 <p align="center">
