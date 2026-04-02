@@ -4,7 +4,7 @@
 ---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Full+Stack+Developer;MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things;Rusty Coder" />
 </p>
 
 ---
