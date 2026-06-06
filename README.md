@@ -4,7 +4,7 @@
 
 # Hi, I'm Kundan 👋
 
-### Backend • Systems Programming • Rust • Linux
+### Backend • Problem Solving • Rust • Linux
 
 <a href="https://www.linkedin.com/in/kundan-kumar-81358130a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
@@ -36,9 +36,8 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 ## Currently Working On
 
-- 🦀 Learning Rust
+- 🦀 Learning Rust 
 - ⚡ Building CLI & Backend Projects
-- 🐧 Exploring Linux Internals
 - 📚 Data Structures & Algorithms
 - 🌱 Open Source Contributions
 
@@ -48,7 +47,7 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,c,linux,git,github,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,react,express,mongodb,postgres,linux,git,github,bash,vscode" />
 
 </div>
 
@@ -64,37 +63,6 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kundankr30&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankr30&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundankr30&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-[![Kundan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kundankr30&theme=tokyo-night)](https://github.com/Kundankr30)
-
-</div>
-
----
 
 <div align="center">
 
