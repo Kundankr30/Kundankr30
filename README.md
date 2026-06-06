@@ -1,66 +1,103 @@
-<h1 align="center">Hi 👋, I'm Kundan Kumar</h1>
-<h3 align="center">💻  Developer | 🚀 Problem Solver</h3>
+<div align="center">
+
+<img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="220"/>
+
+# Hi, I'm Kundan 👋
+
+### Backend • Systems Programming • Rust • Linux
+
+<a href="https://www.linkedin.com/in/kundan-kumar-81358130a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Kundankr30" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Kundanleetcoder/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=Kundankr30&label=Profile%20Views&color=0e75b6&style=flat" />
+
+</div>
 
 ---
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=MERN+Stack+Learner;DSA+Enthusiast;Always+Learning+New+Things;Rusty+Coder" />
-</p>
+## About Me
+
+I like building backend systems, developer tools, and exploring how things work under the hood.
+
+Currently focused on Rust, Linux, and improving my problem-solving skills through Competitive Programming.
+
+> Curious by default. Learning every day.
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kundankr30&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
-</p>
+## Currently Working On
+
+- 🦀 Learning Rust
+- ⚡ Building CLI & Backend Projects
+- 🐧 Exploring Linux Internals
+- 📚 Data Structures & Algorithms
+- 🌱 Open Source Contributions
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Currently learning **Express.js , React & Rust **
-- 🌱 Exploring **Full Stack Development (MERN)**
-- 🧠 Practicing **Data Structures & Algorithms**
-- ⚡ Love solving problems on **LeetCode**
-- 🎯 Goal: Become a **strong Software Engineer**
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=rust,cpp,c,linux,git,github,bash,vscode" />
+
+</div>
 
 ---
 
-### 🌐 Connect With Me
-<p align="left">
-<a href="mailto:kundanixr@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="40"/></a>
-<a href="https://github.com/Kundankr30"><img src="https://skillicons.dev/icons?i=github" width="40"/></a>
-<a href="https://leetcode.com/Kundanleetcoder/"><img src="https://skillicons.dev/icons?i=leetcode" width="40"/></a>
-</p>
+## LeetCode Stats
+
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/Kundanleetcoder?theme=dark&font=Nunito&ext=heatmap" />
+
+</div>
 
 ---
 
-### 🛠️ Languages and Tools
-<p align="left"> 
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,react,express,nodejs,mongodb,git,rust" />
-</p>
+## GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kundankr30&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kundankr30&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📊 LeetCode Stats
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Kundanleetcoder?theme=dark&font=Baloo&ext=heatmap" />
-</p>
+## GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundankr30&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kundankr30&theme=radical" height="165"/>
-</p>
+## Activity Graph
+
+<div align="center">
+
+[![Kundan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kundankr30&theme=tokyo-night)](https://github.com/Kundankr30)
+
+</div>
 
 ---
 
+<div align="center">
 
-### 🐍 Contribution Snake
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
+### 🦀 Build • Learn • Repeat
 
----
-
-### ⚡ Fun Fact
-> I spend more time debugging than coding 😄
+</div>
