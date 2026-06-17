@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white"/>
 </a>
 
-<a href="https://leetcode.com/u/Kundanleetcoder/" target="_blank">
+<a href="https://leetcode.com/u/Kundan30/" target="_blank">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/>
 </a>
 
@@ -57,7 +57,7 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/Kundanleetcoder?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/Kundan30?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
 
