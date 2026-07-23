@@ -1,6 +1,6 @@
 <div align="center">
 /
-<!-- <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="220"/>
+<!-- <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="220"/> -->
 
 # Hi, I'm Kundan 
 
