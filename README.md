@@ -1,5 +1,5 @@
 <div align="center">
-/
+
 <!-- <img src="https://rustacean.net/assets/rustacean-flat-happy.png" width="220"/> -->
 
 # Hi, I'm Kundan 
@@ -15,7 +15,7 @@
 </a>
 </div>
 
----
+
 ## About Me
 
 I like building backend systems, developer tools, and exploring how things work under the hood.
@@ -23,7 +23,6 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 
 
----
 
 
 ## Tech Stack
