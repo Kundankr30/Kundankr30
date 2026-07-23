@@ -51,21 +51,6 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 </div>
 
----
 
-## LeetCode Stats
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Kundan30?theme=dark&font=Nunito&ext=heatmap" />
-
-</div>
-
----
-
-
-<div align="center">
-
-### 🦀 Build • Learn • Repeat
 
 </div>
