@@ -21,7 +21,12 @@
 I like building backend systems, developer tools, and exploring how things work under the hood.
 Currently focused on Rust, Linux, and improving my problem-solving skills through Competitive Programming.
 
+## 🚧 Current Projects
 
+| Project | Description |
+|---------|-------------|
+| [syspulse](https://github.com/Kundankr30/syspulse) | System Monitor in Rust |
+| [Solana-amm](https://github.com/Kundankr30/solamm) | A constant-product Automated Market Maker (AMM) built on Solana using the Anchor framework |
 
 
 
