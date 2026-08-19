@@ -16,6 +16,8 @@
 </div>
 
 
+
+
 ## About Me
 
 I like building backend systems, developer tools, and exploring how things work under the hood.
@@ -34,12 +36,11 @@ Currently focused on Rust, Linux, and improving my problem-solving skills throug
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=rust,cpp,react,express,mongodb,postgres,linux,git,github,bash,vscode" />
+<img src="https://skillicons.dev/icons?i=rust,cpp,typescript,react,express,mongodb,postgres,linux" />
 
 </div>
 
 
 
 </div>
-
 
